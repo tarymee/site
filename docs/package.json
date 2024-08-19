@@ -1,0 +1,11 @@
+{
+  "name": "tarymee-docs",
+  "private": true,
+  "scripts": {
+    "dev": "docsify serve -p 12328",
+    "docs": "docsify serve -p 12328"
+  },
+  "devDependencies": {
+    "docsify-cli": "^4.4.4"
+  }
+}
