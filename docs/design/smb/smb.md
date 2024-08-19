@@ -5,13 +5,42 @@
 + smb容器包 + 平台引擎包 = 独立打包smb-web包
 
 
+
+
 ## 消息中心
 
 ![](img/message.png)
 
 目前的web消息中心分为三个tab，支持打开审批消息、低码页面、最新版补丁包也支持打开SPU页面。
 
-建议：暂时维持现状，后续如有新需求（如对接第三方消息）再另行改造。
+
+
+## 工作流引擎-前端问题
+
+**参考资料**
++ https://juejin.cn/post/7156530891576049671
++ https://juejin.cn/post/7025979116679593998
++ https://blog.csdn.net/ishadian/article/details/103841140
++ https://cloud.tencent.com/developer/article/1998217
++ https://segmentfault.com/a/1190000041273775
++ https://blog.csdn.net/qq_40366738/article/details/128768412
+
+
++ 采用SPU技术架构实现 or 引擎系统集成？【如果是引擎系统集成的话需要平台APP实现？】
++ 是否需要集成Web配置端，开放给用户配置？
+
++ web配置端：集成 modeler 流程设计器
+  - 如何关联外部表单（SPU-页面）？
+  - 如何关联业务对象，业务对象标志属性？
+  - 是否需要特殊功能定制？
+
++ 应用端
+  - 集成流程中心（web、移动端）
+  - 集成发起审批（web、移动端）
+  - 集成消息中心-审批消息（web、移动端）
+  - 审批时集成SPU-表单，前端如何实现数据对接？
+
+
 
 ## 官网+帮助文档（产品Q&A知识库）
 
