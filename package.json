@@ -2,13 +2,15 @@
   "name": "tarymee-site",
   "private": true,
   "scripts": {
-    "dev": "node koa.js",
+    "dev": "node serve/index.js",
+    "dev1": "node serve/koa.js",
     "work": "cd ./work && npm run dev",
     "tarymee": "cd ./tarymee && npm run dev"
   },
   "devDependencies": {
     "docsify-cli": "^4.4.4",
     "koa": "^2.15.3",
-    "koa-static": "^5.0.0"
+    "koa-static": "^5.0.0",
+    "live-server": "^1.2.2"
   }
 }
