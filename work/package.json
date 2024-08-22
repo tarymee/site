@@ -1,8 +1,8 @@
 {
-  "name": "docs",
+  "name": "work",
   "private": true,
   "scripts": {
-    "dev": "docsify serve -o -p 12301"
+    "dev": "docsify serve -o -p 12300"
   },
   "devDependencies": {
     "docsify-cli": "^4.4.4"

@@ -1,1 +1,1 @@
-## tarymee-docs
+## docs

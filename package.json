@@ -1,0 +1,12 @@
+{
+  "name": "tarymee-docs",
+  "private": true,
+  "scripts": {
+    "work": "cd ./work && npm run dev",
+    "docs": "cd ./docs && npm run dev"
+  },
+  "devDependencies": {
+    "browser-sync": "^3.0.2",
+    "docsify-cli": "^4.4.4"
+  }
+}
