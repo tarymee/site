@@ -1,2 +1,2 @@
 * SMB
-  * [todo](smb/smb)
+  * [todo](src/todo)
