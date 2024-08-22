@@ -1,2 +1,2 @@
-* SMB
+* todo
   * [todo](src/todo)

@@ -2,11 +2,13 @@
   "name": "tarymee-docs",
   "private": true,
   "scripts": {
+    "dev": "node koa.js",
     "work": "cd ./work && npm run dev",
-    "docs": "cd ./docs && npm run dev"
+    "tarymee": "cd ./tarymee && npm run dev"
   },
   "devDependencies": {
-    "browser-sync": "^3.0.2",
-    "docsify-cli": "^4.4.4"
+    "docsify-cli": "^4.4.4",
+    "koa": "^2.15.3",
+    "koa-static": "^5.0.0"
   }
 }

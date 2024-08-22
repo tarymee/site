@@ -1,5 +1,5 @@
 {
-  "name": "docs",
+  "name": "tarymee-docs",
   "private": true,
   "scripts": {
     "dev": "docsify serve -o -p 12301"
