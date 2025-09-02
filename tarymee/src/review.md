@@ -1,41 +1,55 @@
+## module
+
+- BOLL: middle-line-above/middle-line-below/mouth-slowup-become-large/mouth-quickdown-become-small
+- MA: up-order-line/down-order-line/not-order-line
+- MACD: slow-up/quick-up/slow-down/quick-down
+- RSI: RSI1 = 50 over-buy/not-over-buy/over-sell/not-over-sell
+- KDJ: K = 50 over-buy/not-over-buy/over-sell/not-over-sell
+
 ## 2025-09-02
 
-- A 单日: 5632
-- A 总: 50319
-- B 单日: 2423
-- B 总: 8763
+- up
+- A: 5632/50319
+- B: 2423/8763
 
-##### **红利低波**
+##### HSKJ
 
-##### **自由现金流**
+- BOLL: middle-line-above mouth-slowup-become-large
+- MA: up-order-line
+- MACD: slow-up
+- RSI: RSI1 = 64 not-over-buy
+- KDJ: K = 72 not-over-buy
+- JieLun: dingtou + lowbuy
 
-- BOLL:
-- MA: 多头排列/空头排列/缠绕排列
-- MACD:
-- RSI:
-- KDJ:
+##### Benefit
 
-##### **恒生科技/恒生互联网**
+- JieLun: sell
 
-##### **半导体**
+##### Cash
 
-##### **光伏**
+- JieLun: dingtou
 
-##### **微盘股**
+##### BeiZheng
 
-##### **CS 人工智能**
+##### BanDaoTi
 
-##### **科创 50**
+##### GuangFu
 
-##### **食品饮料【传统消费】**
+##### WeiPan
 
-##### **新消费**
+##### AI
 
-##### **白酒**
+##### KeChuang 50
 
-##### **机器人**
+##### FootDrink
 
-## 持仓结构
+##### NewConsumer
+
+##### WhiteWine
+
+##### Robot
+
+## construction
 
 ##### 总 72
 
