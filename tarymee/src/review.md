@@ -1,56 +1,3 @@
-## module
-
-- BOLL: middle-line-above/middle-line-below/mouth-slowup-become-large/mouth-quickdown-become-small
-- MA: up-order-line/down-order-line/not-order-line
-- MACD: slow-up/quick-up/slow-down/quick-down
-- RSI: RSI1 = 50 over-buy/not-over-buy/over-sell/not-over-sell
-- KDJ: K = 50 over-buy/not-over-buy/over-sell/not-over-sell
-
-## 2025-09-02
-
-- up
-- A: 5632/50319
-- B: 2423/8763
-
-##### HSKJ
-
-- BOLL: middle-line-above mouth-slowup-become-large
-- MA: up-order-line
-- MACD: slow-up
-- RSI: RSI1 = 64 not-over-buy
-- KDJ: K = 72 not-over-buy
-- JieLun: dingtou + lowbuy
-
-##### Benefit
-
-- JieLun: sell
-
-##### Cash
-
-- JieLun: dingtou
-
-##### BeiZheng
-
-##### BanDaoTi
-
-##### GuangFu
-
-##### WeiPan
-
-##### AI
-
-##### KeChuang 50
-
-##### FootDrink
-
-##### NewConsumer
-
-##### WhiteWine
-
-##### Robot
-
-## construction
-
 ##### 总 72
 
 - 我不动: 其他 4 + 低估值 5.5 = 9.5
@@ -63,17 +10,98 @@
 
 ##### 我总 49
 
-- 现状: 光伏 7.3 + 量化 5.3 + 消费 4 + 红利 5 + 科技互联 6.4 + 半人智芯 8.6 + 机器人 0.6 + 医药 1.5 + 其他 4 + 低估值 5.5 = 48.2
-- 期望: 光伏 5 + 量化 5 + 消费 10 + 红利 2 + 科技互联 10 + 半人智芯 10 + 机器人 0.5 + 医药 0.5 + 其他 3 + 低估值 5
-- 期望剩余仓位:
-- 操作: 逢高减不加 红利 3/量化 0.3/机器人 0.1/医药 1/其他 1/低估值 0.5
-- 操作: 逢高减必加转 光伏 2.3
-- 操作: 逢低加或转换 消费 6/科技互联 3.6/半人智芯 1.4
+- 现状: 消费 5.3 + 科技互联 6 + 半导体科创芯片 9 + 光伏 5.9 + 量化微盘 4.3 + 红利 4 + 人工智能机器人 0.4 + 医药 0.8 + 其他 5.1 + 玄黄跟踪 4.6 =
+- 期望:
 
 ##### 君总 23
 
 - 现状: 光伏 1.1 + 量化 3.2 + 红利 4.2 + 其他 6.7 + 债券 1.8 + 消费 3.3 + 科技互联 0.8 + 半人智芯 1.9 = 23
-- 期望: 光伏 5 + 量化 3 + 红利 5 + 其他 6.7 + 债券 1 + 余额 2.3 = 23
+- 期望: 光伏 5 + 量化 3 + 红利 3 + 科技 2 + 其他 6.7 + 债券 1 + 余额 2.3 = 23
 - 操作: 逢高减不加 债券 0.8
 - 操作: 逢高减必加转 消费 3.3/科技互联 0.8/半人智芯 1.9
 - 操作: 逢低加或转换 光伏 3.9/红利 0.8
+
+## 2025-09-03
+
+- A: -2086/41225
+- B: -561/5098
+- Z: -2647/46323
+
+## 2025-09-02
+
+- A: -7055/43160
+- B: -3142/5549
+- Z: -10197/48709
+
+## 2025-09-01
+
+- A: 5632/50319
+- B: 2423/8763
+- Z: 8055/59082
+
+##### WeiPan
+
+趋势向下，大概率继续回调，减仓
+
+##### TMT50
+
+指数定义：该指数由深市 A 股中科技（Technology）、媒体（Media）和电信（Telecom）类上市公司中规模大、流动性好的最具代表性的 50 只股票组成，反映了深圳市场中 TMT 产业的整体走势情况。
+样本空间：指数样本空间为在深圳证券交易所上市交易且满足下列条件的所有 A 股：非 ST、\*ST 证券；上市时间超过 6 个月；公司最近一年无重大违规、财务报告无重大问题；公司最近一年经营无异常、无重大亏损；考察期内证券价格无异常波动；属于软件与互联网、技术硬件与设备、半导体、电信业务、传媒等行业。
+
+前阵子涨的太猛，目前成交量减少，BOLL 已经触碰上轨回落，有继续往下的趋势，RSI 和 KDJ 均向下，减仓保住利润。
+
+##### 恒生港股通新经济指数
+
+指数聚焦 “新经济” 主题，覆盖香港市场中具备技术创新、模式创新或行业成长属性的企业，同时严格限定于港股通标的范围（确保内地投资者可直接交易），最终为市场提供 “可投资、主题清晰” 的新经济领域业绩基准。
+
+横盘震荡，继续持有，考虑转成 C 份额。
+
+##### BanDaoTi
+
+继续持有
+
+##### HSKJ
+
+震荡情况不明朗，低吸
+
+##### Benefit
+
+已经破 60 日均线，所有指标都向下，RSI 和 KDJ 大概为 30，差一点触发超卖，运行在 boll 中轨下发，有两次冲高不成回落，判断向下概率更高，择机减仓。
+
+##### 自由现金流
+
+5 和 10 日线发生死叉，股价也跌破 10 日均线，成交量连续 5 天减弱，MACD 刚发生死叉有一点绿线出现，KDJ 向下=63，RSI 向下=52，RIS 有顶背离出现，BOLL 区域向上，股价运行 BOLL 中轨上方。判断向下概率更高，减仓
+
+##### 医药
+
+持有仓位太低，不想再费心持有了，逢高减仓。
+
+##### GuangFu
+
+各种指标趋势都不错，继续持有
+
+##### AI
+
+##### KeChuang 50
+
+之前涨太猛，现在有一点点回落趋势，已破 5 日均线，但未破 10 日均线，BOLL 回落到中轨上方，MACD 趋势向上，但量能减弱，不好判断后续行情，目前刚建仓，逢低加仓
+
+##### 食品饮料
+
+##### 新消费
+
+##### BeiZheng
+
+##### 白酒
+
+##### 机器人
+
+## construction
+
+## module
+
+- BOLL: middle-line-above/middle-line-below/mouth-slowup-become-large/mouth-quickdown-become-small
+- MA: up-order-line/down-order-line/not-order-line
+- MACD: slow-up/quick-up/slow-down/quick-down
+- RSI: RSI1 = 50 over-buy/not-over-buy/over-sell/not-over-sell
+- KDJ: K = 50 over-buy/not-over-buy/over-sell/not-over-sell
