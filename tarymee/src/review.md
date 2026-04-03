@@ -1,26 +1,3 @@
-##### 总 72
-
-- 我不动: 其他 4 + 低估值 5.5 = 9.5
-- 君不动: 其他 6.7 + 债券 1 = 7.7
-- 留仓位: 7
-- 总不动: 24.2
-- 可以动: 47.8
-- 已用: 红利 9.3 + 量化 8.5 + 光伏 8.4 + 消费 7.3 + 半人智芯 10.5 + 机器人 0.6 + 医药 1.5 + 科技互联 7.2 = 53
-- 计划: 光伏 10 + 消费 10 + 科技互联 10 + 半人智芯 10 + 医药 0.5 + 机器人 0.5 + 红利 7 + 量化 8 = 55
-
-##### 我总 49
-
-- 现状: 消费 5.3 + 科技互联 6 + 半导体科创芯片 9 + 光伏 5.9 + 量化微盘 4.3 + 红利 4 + 人工智能机器人 0.4 + 医药 0.8 + 其他 5.1 + 玄黄跟踪 4.6 =
-- 期望:
-
-##### 君总 23
-
-- 现状: 光伏 1.1 + 量化 3.2 + 红利 4.2 + 其他 6.7 + 债券 1.8 + 消费 3.3 + 科技互联 0.8 + 半人智芯 1.9 = 23
-- 期望: 光伏 5 + 量化 3 + 红利 3 + 科技 2 + 其他 6.7 + 债券 1 + 余额 2.3 = 23
-- 操作: 逢高减不加 债券 0.8
-- 操作: 逢高减必加转 消费 3.3/科技互联 0.8/半人智芯 1.9
-- 操作: 逢低加或转换 光伏 3.9/红利 0.8
-
 ## 2025-09-03
 
 - A: -2086/41225
@@ -50,7 +27,7 @@
 
 前阵子涨的太猛，目前成交量减少，BOLL 已经触碰上轨回落，有继续往下的趋势，RSI 和 KDJ 均向下，减仓保住利润。
 
-##### 恒生港股通新经济指数
+##### 恒生港股通新经济
 
 指数聚焦 “新经济” 主题，覆盖香港市场中具备技术创新、模式创新或行业成长属性的企业，同时严格限定于港股通标的范围（确保内地投资者可直接交易），最终为市场提供 “可投资、主题清晰” 的新经济领域业绩基准。
 
@@ -74,7 +51,7 @@
 
 ##### 医药
 
-持有仓位太低，不想再费心持有了，逢高减仓。
+中药持有仓位太低，不想再费心持有了，逢高减仓。
 
 ##### GuangFu
 
@@ -100,8 +77,8 @@
 
 ## module
 
-- BOLL: middle-line-above/middle-line-below/mouth-slowup-become-large/mouth-quickdown-become-small
-- MA: up-order-line/down-order-line/not-order-line
-- MACD: slow-up/quick-up/slow-down/quick-down
-- RSI: RSI1 = 50 over-buy/not-over-buy/over-sell/not-over-sell
-- KDJ: K = 50 over-buy/not-over-buy/over-sell/not-over-sell
+BOLL: middle-line-above/middle-line-below/mouth-slowup-become-large/mouth-quickdown-become-small
+MA: up-order-line/down-order-line/not-order-line
+MACD: slow-up/quick-up/slow-down/quick-down
+RSI: RSI1 = 50 over-buy/not-over-buy/over-sell/not-over-sell
+KDJ: K = 50 over-buy/not-over-buy/over-sell/not-over-sell
